@@ -4,3 +4,9 @@ Git start to track the changes of the files
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 It provide an intermediate stage that we can use to organize files to commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+Can add all the files that corresponds to a logical change to the staging area.
+Can leave out all other unnecessary files from staging area as well. Then
+finally can commit the content in the staging area as a single commit.
