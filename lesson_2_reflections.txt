@@ -10,3 +10,7 @@ change?
 Can add all the files that corresponds to a logical change to the staging area.
 Can leave out all other unnecessary files from staging area as well. Then
 finally can commit the content in the staging area as a single commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches help to keep track of several flavors of the same core content.
