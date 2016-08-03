@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git start to track the changes of the files
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+It provide an intermediate stage that we can use to organize files to commit.
