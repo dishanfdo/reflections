@@ -17,3 +17,7 @@ Branches help to keep track of several flavors of the same core content.
 
 How do the diagrams help you visualize the branch structure?
 By providing a birds eye view of the entire structure of the repository.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+Combining changes of both branches into one branch.
