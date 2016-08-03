@@ -14,3 +14,6 @@ finally can commit the content in the staging area as a single commit.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 Branches help to keep track of several flavors of the same core content.
+
+How do the diagrams help you visualize the branch structure?
+By providing a birds eye view of the entire structure of the repository.
